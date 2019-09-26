@@ -1,0 +1,2516 @@
+EXPERIMENT 1
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 7: 0.00103
+
+Selection Sort (average) took 8128.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 7: 0.00112
+
+Insertion Sort (average) took 4120.7 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 7: 0.00068
+
+Shell Sort (average) took 1464.1 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 8: 0.00288
+
+Selection Sort (average) took 32640.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 8: 0.00331
+
+Insertion Sort (average) took 16325.1 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 8: 0.00149
+
+Shell Sort (average) took 3906.3 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 9: 0.01012
+
+Selection Sort (average) took 130816.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 9: 0.01193
+
+Insertion Sort (average) took 64966.2 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 9: 0.00333
+
+Shell Sort (average) took 10154.9 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 10: 0.03682
+
+Selection Sort (average) took 523776.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 10: 0.04804
+
+Insertion Sort (average) took 263080.7 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 10: 0.00759
+
+Shell Sort (average) took 24742.4 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 11: 0.1467
+
+Selection Sort (average) took 2096128.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 11: 0.18601
+
+Insertion Sort (average) took 1050957.5 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 11: 0.02288
+
+Shell Sort (average) took 68184.4 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 12: 0.54854
+
+Selection Sort (average) took 8386560.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 12: 0.71574
+
+Insertion Sort (average) took 4180862.6 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 12: 0.04538
+
+Shell Sort (average) took 185995.0 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 13: 2.15783
+
+Selection Sort (average) took 33550336.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 13: 2.86441
+
+Insertion Sort (average) took 16744894.8 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 13: 0.10234
+
+Shell Sort (average) took 434732.8 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 14: 8.65778
+
+Selection Sort (average) took 134209536.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 14: 11.6146
+
+Insertion Sort (average) took 67138483.9 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 14: 0.25676
+
+Shell Sort (average) took 1170677.1 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 15: 34.92598
+
+Selection Sort (average) took 536854528.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 15: 46.8091
+
+Insertion Sort (average) took 268171747.2 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 15: 0.69385
+
+Shell Sort (average) took 3370709.6 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 16: 146.32148
+
+Selection Sort (average) took 2147450880.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 16: 189.09535
+
+Insertion Sort (average) took 1073247218.1 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 16: 1.70359
+
+Shell Sort (average) took 8583687.2 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 17: 624.5236
+
+Selection Sort (average) took 8589869056.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 17: 835.07954
+
+Insertion Sort (average) took 4287459940.8 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 17: 5.37696
+
+Shell Sort (average) took 23346500.8 number of comparison operations
+
+EXPERIMENT 2
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 7: 0.00154
+
+
+Selection Sort took 8128 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 7: 7e-05
+
+
+Insertion Sort took 127 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 7: 0.00014
+
+
+Shell Sort took 769 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 8: 0.00218
+
+
+Selection Sort took 32640 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 8: 0.00014
+
+
+Insertion Sort took 255 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 8: 0.00033
+
+
+Shell Sort took 1793 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 9: 0.00961
+
+
+Selection Sort took 130816 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 9: 0.00026
+
+
+Insertion Sort took 511 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 9: 0.00086
+
+
+Shell Sort took 4097 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 10: 0.0399
+
+
+Selection Sort took 523776 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 10: 0.00055
+
+
+Insertion Sort took 1023 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 10: 0.00185
+
+
+Shell Sort took 9217 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 11: 0.17855
+
+
+Selection Sort took 2096128 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 11: 0.00111
+
+
+Insertion Sort took 2047 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 11: 0.00438
+
+
+Shell Sort took 20481 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 12: 0.7213
+
+
+Selection Sort took 8386560 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 12: 0.00223
+
+
+Insertion Sort took 4095 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 12: 0.00961
+
+
+Shell Sort took 45057 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 13: 2.80689
+
+
+Selection Sort took 33550336 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 13: 0.00512
+
+
+Insertion Sort took 8191 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 13: 0.02292
+
+
+Shell Sort took 98305 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 14: 11.77038
+
+
+Selection Sort took 134209536 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 14: 0.01024
+
+
+Insertion Sort took 16383 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 14: 0.07286
+
+
+Shell Sort took 212993 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 15: 48.33682
+
+
+Selection Sort took 536854528 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 15: 0.01818
+
+
+Insertion Sort took 32767 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 15: 0.10153
+
+
+Shell Sort took 458753 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 16: 209.3884
+
+
+Selection Sort took 2147450880 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 16: 0.03177
+
+
+Insertion Sort took 65535 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 16: 0.19336
+
+
+Shell Sort took 983041 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 17: 862.26627
+
+
+Selection Sort took 8589869056 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 17: 0.07179
+
+
+Insertion Sort took 131071 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 17: 0.47355
+
+
+Shell Sort took 2097153 number of comparison operations
+
+EXPERIMENT 3
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 7: 0.00145
+
+
+Selection Sort took 8128 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 7: 0.0013
+
+
+Insertion Sort took 8247 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 7: 0.00021
+
+
+Shell Sort took 1212 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 8: 0.00229
+
+
+Selection Sort took 32640 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 8: 0.00504
+
+
+Insertion Sort took 32854 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 8: 0.00046
+
+
+Shell Sort took 2793 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 9: 0.00925
+
+
+Selection Sort took 130816 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 9: 0.02378
+
+
+Insertion Sort took 131198 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 9: 0.00115
+
+
+Shell Sort took 6349 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 10: 0.03979
+
+
+Selection Sort took 523776 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 10: 0.09343
+
+
+Insertion Sort took 524249 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 10: 0.00265
+
+
+Shell Sort took 14070 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 11: 0.15964
+
+
+Selection Sort took 2096128 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 11: 0.40517
+
+
+Insertion Sort took 2096101 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 11: 0.00671
+
+
+Shell Sort took 30824 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 12: 0.61622
+
+
+Selection Sort took 8386560 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 12: 1.67118
+
+
+Insertion Sort took 8382140 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 12: 0.01402
+
+
+Shell Sort took 66532 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 13: 2.42944
+
+
+Selection Sort took 33550336 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 13: 6.80641
+
+
+Insertion Sort took 33524956 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 13: 0.02742
+
+
+Shell Sort took 142119 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 14: 10.02
+
+
+Selection Sort took 134209536 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 14: 27.41784
+
+
+Insertion Sort took 134091733 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 14: 0.05999
+
+
+Shell Sort took 301559 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 15: 40.05146
+
+
+Selection Sort took 536854528 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 15: 113.10243
+
+
+Insertion Sort took 536350985 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 15: 0.13054
+
+
+Shell Sort took 636579 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 16: 178.40043
+
+
+Selection Sort took 2147450880 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 16: 481.72444
+
+
+Insertion Sort took 2145370196 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 16: 0.29811
+
+
+Shell Sort took 1340611 number of comparison operations
+
+
+Selection Sort
+
+
+Time spent on Selection Sort with arrays to the power of 17: 831.57075
+
+
+Selection Sort took 8589869056 number of comparison operations
+
+
+Insertion Sort
+
+
+Time spent on Insertion Sort with arrays to the power of 17: 2018.21442
+
+
+Insertion Sort took 8581425254 number of comparison operations
+
+
+Shell Sort
+
+
+Time spent on Shell Sort with arrays to the power of 17: 0.55041
+
+
+Shell Sort took 2813812 number of comparison operations
+
+EXPERIMENT 4
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 7: 0.00114
+
+Selection Sort (average) took 8128.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 7: 0.00087
+
+Insertion Sort (average) took 2823.7 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 7: 0.0006
+
+Shell Sort (average) took 951.2 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 8: 0.00301
+
+Selection Sort (average) took 32640.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 8: 0.00261
+
+Insertion Sort (average) took 11151.6 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 8: 0.00123
+
+Shell Sort (average) took 2228.1 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 9: 0.01069
+
+Selection Sort (average) took 130816.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 9: 0.00905
+
+Insertion Sort (average) took 44220.1 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 9: 0.0026
+
+Shell Sort (average) took 5052.5 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 10: 0.03956
+
+Selection Sort (average) took 523776.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 10: 0.03409
+
+Insertion Sort (average) took 176377.2 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 10: 0.00548
+
+Shell Sort (average) took 11238.2 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 11: 0.14851
+
+Selection Sort (average) took 2096128.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 11: 0.13044
+
+Insertion Sort (average) took 705146.6 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 11: 0.01135
+
+Shell Sort (average) took 25102.3 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 12: 0.57557
+
+Selection Sort (average) took 8386560.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 12: 0.50212
+
+Insertion Sort (average) took 2793939.4 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 12: 0.02368
+
+Shell Sort (average) took 55270.5 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 13: 2.24594
+
+Selection Sort (average) took 33550336.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 13: 1.9675
+
+Insertion Sort (average) took 11118512.2 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 13: 0.05053
+
+Shell Sort (average) took 119768.0 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 14: 9.00051
+
+Selection Sort (average) took 134209536.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 14: 7.80587
+
+Insertion Sort (average) took 44756407.9 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 14: 0.09975
+
+Shell Sort (average) took 261684.8 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 15: 34.88384
+
+Selection Sort (average) took 536854528.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 15: 30.8839
+
+Insertion Sort (average) took 178216468.7 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 15: 0.20338
+
+Shell Sort (average) took 564382.4 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 16: 145.71693
+
+Selection Sort (average) took 2147450880.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 16: 124.13203
+
+Insertion Sort (average) took 715309212.8 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 16: 0.41804
+
+Shell Sort (average) took 1205329.7 number of comparison operations
+
+
+Selection Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Selection Sort (average) with arrays to the power of 17: 599.0265
+
+Selection Sort (average) took 8589869056.0 number of comparison operations
+
+
+Insertion Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Insertion Sort (average) with arrays to the power of 17: 520.97379
+
+Insertion Sort (average) took 2865912881.4 number of comparison operations
+
+
+Shell Sort
+
+ITERATION 1
+-----------------------------------------------
+ITERATION 2
+-----------------------------------------------
+ITERATION 3
+-----------------------------------------------
+ITERATION 4
+-----------------------------------------------
+ITERATION 5
+-----------------------------------------------
+ITERATION 6
+-----------------------------------------------
+ITERATION 7
+-----------------------------------------------
+ITERATION 8
+-----------------------------------------------
+ITERATION 9
+-----------------------------------------------
+ITERATION 10
+-----------------------------------------------
+
+
+Time spent on Shell Sort (average) with arrays to the power of 17: 0.8545
+
+Shell Sort (average) took 2552235.6 number of comparison operations
+
